@@ -1,0 +1,28 @@
+1. Organizacja spotkania. (Organizatorzy)
+ - Stworzenie grupy
+ - Dodanie uczestników
+ - Dodanie grafiku (plan wycieczkowy)
+ - Tworzenie mapy. (Drogi, punkty głowne, punkty odpoczynkowe)
+ - Edytowanie spotkanie (dodanie i usuwania uczestników)
+ - Uprawnienie
+ - Ustawienia dotycząca spotkania (dla różnych wycieczek, usuwania spotkania)
+
+2. Edycja i procedura przejścia spotkania (Przewodnik)
+ - Dostep do spotkania (Logowanie, wylogowanie)
+ - Dodawanie punktu zbiórki
+ - Edycja spotkania (edycja mapy, grafiku)
+ - Czat prywatny (do uczestników i organizatorów)
+ - Podgląd listy uczestników
+ - Sprawdzenie numeru telefonu uczestnika
+ - Wysyłanie komunikatów do uczestników
+
+3. Widok spotkania (Klient)
+ - Dostep do spotkania (Logowanie)
+ - Mapa ogólna (podgląd)
+ - Sprawdzenie lokalizacji przewodnika
+ - Geolokalizacja (różne podpowiedzi)
+ - Czat prywatny (przewodnikiem)
+ - Opinia (po skonczeniu wycieczki jest możliwość wystawienie oceny i komentarza odnośnie spotkania)
+ - Sprawdzenie numeru telefonu Przewodnika
+
+ - Udostępnienie lokalizacji do przewodnika
